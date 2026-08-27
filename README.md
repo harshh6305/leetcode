@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/harshh6305/leetcode/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/harshh6305/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
