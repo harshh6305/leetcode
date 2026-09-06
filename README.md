@@ -69,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/harshh6305/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshh6305/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/harshh6305/leetcode/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/harshh6305/leetcode/tree/master/0344-reverse-string) |
 ## Math
 |  |
